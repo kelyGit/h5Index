@@ -168,7 +168,7 @@ header{
 }
 /*新闻中心*/
 .news{
-	margin-top:58px;
+	margin-top:0px;
 }
 .news .media_item:nth-child(even){
 	

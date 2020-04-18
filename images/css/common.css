@@ -157,7 +157,7 @@ img {border: 0px;vertical-align: middle;}
 	.subNav .name{  position:relative;}
 	.subNav .name a{ display:block; color:#333;}
 	.currentDt{ background:url(../nimg28_1on.png) right center no-repeat; background-size:16px;}
-	.navContent{display: none;}
+	.navContent{display: block;}
 	.navContent li{ position:relative;}
 	.navContent .back{ border-bottom:#ccc solid 1px;}
 	.navContent .back img{ width:9px;}

@@ -169,7 +169,7 @@ button{
 
 .sec-title {
   margin-top: -2px;
-  padding-bottom: 50px;
+  padding-bottom: 5px;
   position: relative;
 }
 .sec-title h1 {
@@ -2523,8 +2523,8 @@ select:focus {
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-bottom: 50px;
-    padding-top: 80px;
+    padding-bottom: 5px;
+    padding-top: 8px;
     position: relative;
     z-index: 1;
 }
