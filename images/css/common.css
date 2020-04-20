@@ -1,6 +1,6 @@
 /* Code tidied up by ScrapBook */
 body, div, p, img, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, blockquote { padding: 0px; margin: 0px; outline: 0px none; }
-body { width: 100%; font: 12px/20px "Microsoft Yahei",Arial,Helvetica,sans-serif; color: #FFFFFF; }
+body { width: 100%; font: 12px/20px "Microsoft Yahei",Arial,Helvetica,sans-serif; color: rgb(102, 102, 102); }
 ul li { list-style: outside none none; }
 .clear { clear: both; }
 article, aside, dialog, footer, header, section, footer, nav, figure, menu { padding: 0px; margin: 0px; display: block; }
